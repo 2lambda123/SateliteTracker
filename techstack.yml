@@ -2,7 +2,7 @@ repo_name: 2lambda123/SateliteTracker
 report_id: 64b59532d380f7994d7186ad598c50db
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:30:02+00:00'
+timestamp: '2024-01-05T08:13:40+00:00'
 requested_by: snorkell-ai[bot]
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/SateliteTracker
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/SateliteTracker
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/SateliteTracker
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -44,6 +47,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/SateliteTracker/blob/master/.github/workflows/snorkell-auto-documentation.yml
   detection_source: ".github/workflows/snorkell-auto-documentation.yml"
   last_updated_by: snorkell-ai[bot]
   last_updated_on: 2023-12-20 11:04:06.000000000 Z
